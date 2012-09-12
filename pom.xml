@@ -7,4 +7,13 @@
   <modules>
   	<module>persist-charge</module>
   </modules>
+  <dependencyManagement>
+  	<dependencies>
+  		<dependency>
+  			<groupId>altrmi</groupId>
+  			<artifactId>altrmi-generator</artifactId>
+  			<version>0.9.6</version>
+  		</dependency>
+  	</dependencies>
+  </dependencyManagement>
 </project>
