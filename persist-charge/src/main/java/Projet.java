@@ -7,8 +7,8 @@ public class Projet {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		
 		System.out.println("Test de conflits"); 
+		System.out.println("Test conflit numero2"); 
 		
 
 	}
