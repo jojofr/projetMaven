@@ -8,7 +8,7 @@ public class Projet {
 		// TODO Auto-generated method stub
 		
 		
-		System.out.println("Test de conflits");
+		System.out.println("Test de conflits"); 
 		
 
 	}
