@@ -10,7 +10,36 @@ public class Projet {
 		System.out.println("Test de conflits"); 
 		System.out.println("Test conflit numero2"); 
 		
-
+		System.out.println("Test de conflits"); 
+		System.out.println("Test conflit numero2");
+		System.out.println("Test de conflits"); 
+		System.out.println("Test conflit numero2");System.out.println("Test de conflits"); 
+		System.out.println("Test conflit numero2");
+		System.out.println("Test de conflits"); 
+		System.out.println("Test conflit numero2");
+		System.out.println("Test de conflits"); 
+		System.out.println("Test conflit numero2");
+		System.out.println("Test de conflits"); 
+		System.out.println("Test conflit numero2");
+		
+		System.out.println("Test de conflits"); 
+		System.out.println("Test conflit numero2");
+		System.out.println("Test de conflits"); 
+		System.out.println("Test conflit numero2");
+		System.out.println("Test de conflits"); 
+		System.out.println("Test conflit numero2");
+		System.out.println("Test de conflits"); 
+		System.out.println("Test conflit numero2");System.out.println("Test de conflits"); 
+		System.out.println("Test conflit numero2");
+		
+		System.out.println("Test de conflits"); 
+		System.out.println("Test conflit numero2");System.out.println("Test de conflits"); 
+		System.out.println("Test conflit numero2");
+		System.out.println("Test de conflits"); 
+		System.out.println("Test conflit numero2");
+		System.out.println("Test de conflits"); 
+		System.out.println("Test conflit numero2");
+		
 	}
 
 }
