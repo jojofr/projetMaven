@@ -9,8 +9,16 @@
   <dependencies>
   	<dependency>
   		<groupId>altrmi</groupId>
-  		<artifactId>altrmi-generator</artifactId>
-  		<version>0.9.6</version>
+  		<artifactId>altrmi-generator</artifactId><!--$NO-MVN-MAN-VER$-->
   	</dependency>
   </dependencies>
+  <dependencyManagement>
+  	<dependencies>
+  		<dependency>
+  			<groupId>altrmi</groupId>
+  			<artifactId>altrmi-generator</artifactId>
+  			<version>0.9.6</version>
+  		</dependency>
+  	</dependencies>
+  </dependencyManagement>
 </project>

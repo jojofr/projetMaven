@@ -6,4 +6,19 @@
     <version>1.0.0</version>
   </parent>
   <artifactId>persist-charge</artifactId>
+  <dependencies>
+  	<dependency>
+  		<groupId>altrmi</groupId>
+  		<artifactId>altrmi-generator</artifactId><!--$NO-MVN-MAN-VER$-->
+  	</dependency>
+  </dependencies>
+  <dependencyManagement>
+  	<dependencies>
+  		<dependency>
+  			<groupId>altrmi</groupId>
+  			<artifactId>altrmi-generator</artifactId>
+  			<version>0.9.6</version>
+  		</dependency>
+  	</dependencies>
+  </dependencyManagement>
 </project>
