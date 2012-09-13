@@ -8,6 +8,7 @@ public class Projet {
 		// TODO Auto-generated method stub
 
 		//Essai de folie
+		//
 		
 		System.out.println("Test de conflits"); 
 		System.out.println("Test conflit numero2"); 
@@ -15,7 +16,8 @@ public class Projet {
 		System.out.println("Test de conflits"); 
 		System.out.println("Test conflit numero2");
 		System.out.println("Test de conflits"); 
-		System.out.println("Test conflit numero2");System.out.println("Test de conflits"); 
+		System.out.println("Test conflit numero2");
+		System.out.println("Test de conflits"); 
 		System.out.println("Test conflit numero2");
 		System.out.println("Test de conflits"); 
 		System.out.println("Test conflit numero2");
