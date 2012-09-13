@@ -5,7 +5,6 @@
 	<projects>
 	</projects>
 	<buildSpec>
-<<<<<<< HEAD
 		<buildCommand>
 			<name>org.eclipse.m2e.core.maven2Builder</name>
 			<arguments>
@@ -14,9 +13,5 @@
 	</buildSpec>
 	<natures>
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
-=======
-	</buildSpec>
-	<natures>
->>>>>>> branch 'master' of https://github.com/jojofr/projetMaven.git
 	</natures>
 </projectDescription>
